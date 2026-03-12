@@ -1,5 +1,4 @@
-# Movie-searchfilter-app
-Movie-searchfilter-app
+
 # 🎬 Movie Explorer Web App
 
 This is a movie search web application that allows users to explore trending movies, search for movies, filter movies by language, and watch movie trailers.
